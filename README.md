@@ -14,3 +14,7 @@
 <h1 align="center">INTRODUCCIÓN</h1>
 
 Este es un Encriptador que recibe texto como parámetro. Devuelve el texto encriptado bajo ciertas llaves de encriptacion. 
+
+# section nueva
+
+Esta es una seccion generada con marktdown para paracticar en git.
