@@ -9,12 +9,13 @@
   </h1>
 </div>
 
-
-
 <h1 align="center">INTRODUCCIÓN</h1>
 
-Este es un Encriptador que recibe texto como parámetro. Devuelve el texto encriptado bajo ciertas llaves de encriptacion. 
+<p align= "center">Este es un Encriptador que recibe texto como parámetro, por el momento solo texto sin caracteres especiales y solo letras minusculas. El proceso de encriptacion es mediante la sustitucion de ciertos caracteres por llaves de encriptacion.
+Tu puedes escribir texto y al presionar el boton de encriptacion podras obtener tu texto encriptado, puedes copiarlo y decifrarlo de la misma forma. </p>
 
-# section nueva
+<h1 align="center">Tecnologias Usadas</h1>
+- JS
+- HTML
+- CSS
 
-Esta es una seccion generada con marktdown para paracticar en git.
