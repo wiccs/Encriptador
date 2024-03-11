@@ -20,5 +20,3 @@ Tu puedes escribir texto y al presionar el boton de encriptacion podras obtener 
 - CSS
 
 #challengeonecodificador6
-
-<p>.</p>
